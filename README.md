@@ -1,5 +1,6 @@
 # DataAnalysis-Python_Fundamentals
 This jupyter notebook is part of a data analysis portfolio.
+
 This notebook mainly demonstrates basic python concepts such as basic python library(csv), python data types(list and dictionary), python function, python OOP(python class).
 
 Data source: https://www.kaggle.com/datasets/mirichoi0218/insurance
